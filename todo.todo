@@ -1,0 +1,27 @@
+
+
+
+navbar make C for mobile version so users can go to homepage like they can on large screens )
+
+
+ipad /products /templates /other not looking good, images are not adaptive
+
+
+on /products pages too small the text when on 15 inch laptop
+
+
+
+cutting edges still a bit on homepage, must fix
+
+  maybe file structure system ( e.g. legal/terms or products/htmlcss)
+
+
+
+
+if everything else ready: start with blog ( whole subpage, advertise on homepage with own component for it etc.)
+
+
+if google or vercel analytics, add minimalistic small cookie banner and if allowed then we track ( works with google analytics, 
+do not know how this works with vercel analytics)
+
+change the metadata ( often wrong one, make this good for a solid SEO)
